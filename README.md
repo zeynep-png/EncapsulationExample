@@ -1,2 +1,3 @@
 # EncapsulationExample
-![image](https://github.com/user-attachments/assets/7e9ba4d9-d7d3-46ac-8765-f706430cfc57)
+![image](https://github.com/user-attachments/assets/8b9f1df0-1f9c-47c9-8f5e-8f093982781a)
+
