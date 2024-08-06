@@ -30,7 +30,7 @@ namespace EncapsulationExample
                 if (value == 2 || value == 4)
                     numberOfDoors = value;
                 else {
-                    Console.WriteLine("Geçersiz bir değer atanız.");
+                    Console.WriteLine("Invalid Number!!!");
                     numberOfDoors = -1;
 
                 }
